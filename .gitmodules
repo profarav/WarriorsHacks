@@ -1,0 +1,3 @@
+[submodule "Pathways"]
+	path = Pathways
+	url = https://github.com/ir272/Pathways.git
